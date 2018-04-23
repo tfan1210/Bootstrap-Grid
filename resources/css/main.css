@@ -13,6 +13,7 @@ h2 {
 /* Bootstrap Overrides */
 
 .jumbotron {
+  margin-top: 50px;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-7/img-clear-morning.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -20,7 +21,7 @@ h2 {
 }
 
 .navbar {
-
+  margin-bottom: 0px;
 }
 
 #showcase {
